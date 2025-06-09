@@ -15,9 +15,9 @@ A professional AI-powered application that generates personalized cold emails fo
 
 ![Description](image1.jpg)
 
-![Description](image2.jpg)
+![Description](coldmail.jpg)
 
-![Description](FlowDiagram.jpg)
+![Description](FlowDiagram.png)
 
 
 
