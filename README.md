@@ -149,6 +149,10 @@ The application works with most job posting websites including:
 - Provide specific additional information
 - Choose job postings with detailed descriptions
 
+
+🎥 [Watch Demo Video](./demo.mp4)
+
+
 ## 🤝 Contributing
 
 1. Fork the repository
