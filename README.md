@@ -170,7 +170,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, email try.bhanu2004@gmail.com or create an issue in the repository.
 
 ---
 
