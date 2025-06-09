@@ -11,6 +11,9 @@ A professional AI-powered application that generates personalized cold emails fo
 - **Multiple Formats**: Supports various job posting websites
 - **Instant Generation**: Get professional emails in seconds
 
+🎥 [Watch Demo Video](./demo.mp4)
+
+
 ## 🛠️ Installation
 
 1. **Clone the repository**
@@ -150,7 +153,7 @@ The application works with most job posting websites including:
 - Choose job postings with detailed descriptions
 
 
-🎥 [Watch Demo Video](./demo.mp4)
+
 
 
 ## 🤝 Contributing
