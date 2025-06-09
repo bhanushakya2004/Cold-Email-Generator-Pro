@@ -13,6 +13,9 @@ A professional AI-powered application that generates personalized cold emails fo
 
 🎥 [Watch Demo Video](./demo.mp4)
 
+![Description](image1.jpg)
+
+
 
 ## 🛠️ Installation
 
